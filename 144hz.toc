@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: 144Hz Auto Switcher
+## Notes: Automatically switches monitor refresh rate between 120Hz and 144Hz based on display mode
+## Author: Afliloock/Kamil
+## Version: 1.0.0
+
+144hz.lua
