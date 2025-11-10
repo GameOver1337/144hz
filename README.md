@@ -11,8 +11,8 @@
 
 ## Установка
 
-1. Скопируйте папку `144hz` в `World of Warcraft\_retail_\Interface\AddOns\`
-2. Перезапустите игру или выполните `/reload`
+1. Скопируйте папку `144hz` в `World of Warcraft\Interface\AddOns\`
+2. Перезапустите игру
 3. Аддон автоматически начнет работу
 
 ## Использование
@@ -40,4 +40,4 @@
 
 ## Автор
 
-YourName
+Afliloock/Kamil
